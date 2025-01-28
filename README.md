@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My two favourite things in the world are programming and ducks 🦆.</p>
+```
+My two favourite things in the world are programming and ducks 🦆.
+```
 
 ###
 
