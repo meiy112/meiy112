@@ -56,6 +56,4 @@ My two favourite things in the world are programming and ducks 🦆.
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo"  />
 </div>
