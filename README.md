@@ -3,7 +3,7 @@
 ###
 
 ```
-My two favourite things in the world are programming and ducks 🦆.
+I really like ducks 🦆.
 ```
 
 <div align="left">
