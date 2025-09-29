@@ -1,9 +1,9 @@
-<h3 align="left">Hai 👋🦆</h3>
+<h3 align="left">hai 👋🦆.</h3>
 
 ###
 
 ```
-Stuff i love building with rn 👇
+stuff i love building with atm 👇.
 ```
 
 <div align="left">
