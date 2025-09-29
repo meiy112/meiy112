@@ -1,9 +1,9 @@
-<h3 align="left">Hai 👋</h3>
+<h3 align="left">Hai 👋🦆</h3>
 
 ###
 
 ```
-I really like ducks 🦆. My fav tools to build things with 👇
+Stuff i love building with rn 👇
 ```
 
 <div align="left">
@@ -22,6 +22,8 @@ I really like ducks 🦆. My fav tools to build things with 👇
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
