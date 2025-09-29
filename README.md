@@ -3,7 +3,7 @@
 ###
 
 ```
-stuff i love building with atm. 👇
+fav stack rn. 👇
 ```
 
 <div align="left">
