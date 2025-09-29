@@ -3,7 +3,7 @@
 ###
 
 ```
-I really like ducks 🦆. My fav things to build with 👇
+I really like ducks 🦆. My fav tools to build things with 👇
 ```
 
 <div align="left">
